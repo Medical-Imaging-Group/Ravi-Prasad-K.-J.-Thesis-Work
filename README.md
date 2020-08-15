@@ -7,13 +7,13 @@
 The following MATLAB programs were used as a part of Ph.D. thesis submitted.
     (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
-# Minimal Residual Method BasedSelection of Regularization Parameter (includes reconstruction part)
+**Minimal Residual Method BasedSelection of Regularization Parameter (includes reconstruction part)**
 
-# Generalized Cross-Validation BasedSelection of Regularization Parameter (includes reconstruction part also)
+**Generalized Cross-Validation BasedSelection of Regularization Parameter (includes reconstruction part also)**
 
-# Non-Quadrativ Penalization Reconstruction Function
+**Non-Quadrativ Penalization Reconstruction Function**
 
-# Hard-Priors reconstruction using simplex method
+**Hard-Priors reconstruction using simplex method**
 
 Objective function 
 
