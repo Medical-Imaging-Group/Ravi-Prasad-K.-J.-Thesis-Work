@@ -4,7 +4,7 @@
 
 **Development of Efficient Computational Methods for Better Estimation of Optical Properties in Diffuse Optical Tomography**
 
-The following MATLAB programs were used as a part of Ph.D. thesis submitted.
+The following **MATLAB** programs were used as a part of Ph.D. thesis submitted.
     (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/)):
 
 **Minimal Residual Method BasedSelection of Regularization Parameter (includes reconstruction part)**
